@@ -377,4 +377,3 @@ helm rollback account-manager-bot -n account-bot
 
 ---
 
-*Account Manager Bot — LangChain + LLM document QA. Not a substitute for official company policy.*
